@@ -1,7 +1,14 @@
-Hi, My name is Amintor Dusko (@AmintorDusko) and I'm a Physicist.
--  I’m interested in Physics, coding, tensorial algebra, and to explore more efficient ways to implement algorithms. 
--  I code in c++, Python, and Fortran. I'm particularly interested in parallelism with openMP, MPI, and GPU.
--  I’m currently willing to expand my knowledge on GPU, and perhaps TPU.
+Hi, My name is Amintor Dusko (@AmintorDusko) and I'm a quantum software developer/physicist.
+
+I'm a seasoned Fortran, Python and modern C++ programmer. 
+
+My main area of interest are:
+* Quantum Computing
+* Software Development
+* Continuous Integration and Continuous Delivery
+* Quantum Devices and Simulators
+* Machine Learning
+* Tensor Networks and Tensor Calculus
 <!---
 AmintorDusko/AmintorDusko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
