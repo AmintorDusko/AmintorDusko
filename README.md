@@ -2,13 +2,13 @@ Hi, My name is Amintor Dusko (@AmintorDusko) and I'm a quantum software develope
 
 I'm a seasoned Fortran, Python and modern C++ programmer. 
 
-My main area of interest are:
+I'm super interested in solving real world problems, to do that I like to explore:
 * Quantum Computing
-* Software Development
-* Continuous Integration and Continuous Delivery
+* Quantum Machine Learning
 * Quantum Devices and Simulators
-* Machine Learning
-* Tensor Networks and Tensor Calculus
+* Condensed Matter Physics
+* Quantum Devices and Simulators
+* Tensor Networks and Calculus
 <!---
 AmintorDusko/AmintorDusko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
