@@ -1,8 +1,8 @@
 Hi, My name is Amintor Dusko (@AmintorDusko) and I'm a quantum software developer/physicist.
 
-I'm a seasoned Fortran, Python and modern C++ programmer. 
+I'm a seasoned Fortran, Python and modern C++ programmer super interested in solving real world problems. 
 
-I'm super interested in solving real world problems, to do that I like to explore:
+To do that I like to explore:
 * Quantum Computing
 * Quantum Machine Learning
 * Quantum Devices and Simulators
